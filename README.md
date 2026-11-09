@@ -28,4 +28,4 @@ The tutor is a prompt. The model grades the answers, so levels are only as relia
 
 ## License
 
-MIT. See `LICENSE.md`.
+MIT. See [LICENSE](LICENSE).
